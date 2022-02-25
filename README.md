@@ -76,7 +76,7 @@ If you’d like to participate in this research, the instructions for contributi
 
 ---
 
-[Ellen Nickles](https://ellen.town/) is an adjunct professor at New York University’s interactive media programs, [ITP/IMA/Low Res](https://tisch.nyu.edu/itp), at the Tisch School of the Arts.
+[Ellen Nickles](https://ellen.town/) is an adjunct professor at New York University’s interactive media programs arts, [ITP/IMA/Low Res](https://tisch.nyu.edu/itp), at the Tisch School of the Arts.
 
 Many thanks to [Carrie Sijia Wang](https://carriesijiawang.com) and [Alden Rivendale Jones](http://alden.website/) for editing this article.
 
